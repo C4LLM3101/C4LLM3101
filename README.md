@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    Hi there 👋
 
-    <img src="emter.gif">
+<body>
+    <center>
+        hi there 👋    
+    <img src="emter.gif" height="500" wiidth="2050">
+</center>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 </body>
-</html>
